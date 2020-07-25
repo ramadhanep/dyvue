@@ -14,7 +14,7 @@ Hi, I'm Romadhan Edy Prasetyo 👨 a freelance web developer at Home. I live in 
 - 📖 I’m currently learning golang and nuxtjs
 - 😄 I'm natively speak Indonesian and fluently speak english
 - 📫 You can reach me at romadhanedy@gmail.com.
-- 📝 See my <a href="https://www.linkedin.com/in/romadhan-prasetyo-a84225173/">linked.in</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/romadhan-prasetyo-a84225173/">linkedin</a> to get more info.
 
 <!--
 **dyprast/dyprast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
