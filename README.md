@@ -1,4 +1,4 @@
-Fullstack Web Developer at PT Manos Solusi
+Freelancer Fullstack Web Developer
 
 # Romadhan Edy Prasetyo
 
