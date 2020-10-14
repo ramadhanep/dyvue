@@ -8,6 +8,7 @@ Hi, I'm Romadhan Edy Prasetyo 👨 a freelance web developer at Home. I live in 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dyprast&show_icons=true)
 
+<!--
 ## Current activity
 
 - 💻 I'm currently developing <a href="https://gitlab.com/digitoys/backend-api-digitoys">Digitoys API</a>.
@@ -16,7 +17,6 @@ Hi, I'm Romadhan Edy Prasetyo 👨 a freelance web developer at Home. I live in 
 - 📫 You can reach me at romadhanedy@gmail.com.
 - 📝 See my <a href="https://www.linkedin.com/in/romadhan-prasetyo-a84225173/">linkedin</a> to get more info.
 
-<!--
 **dyprast/dyprast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
