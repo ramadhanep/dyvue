@@ -1,8 +1,6 @@
-Freelancer Fullstack Web Developer
-
 # Romadhan Edy Prasetyo
 
-Hi, I'm Romadhan Edy Prasetyo 👨 a freelance web developer at Home. I live in Jakarta, Indonesia. 🙌 I'm a Fullstack Web Developer with PHP and Javascript as Backend , Vue or Nuxt as Frontend.
+Hi, I'm Romadhan Edy Prasetyo 👨 a web developer. I live in Jakarta, Indonesia.
 
 ## Github Performance Overall
 
