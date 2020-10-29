@@ -1,8 +1,8 @@
-<img align="right" alt="GIF" src="./right.gif?raw=true" width="250"/>
+<img align="right" alt="GIF" src="./right.gif?raw=true" width="300"/>
 
 ## Hey there <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/beaming_face_with_smiling_eyes_256_2.gif" width="25px">
 
-Hi, I'm Romadhan Edy Prasetyo 👨 a web developer and creator of the open source Nuxt Stisla. My 💚 favorite programming language are Javascript, PHP, GoLang, and Python. Working from home during quarantine 🏡
+Hi, I'm Romadhan Edy Prasetyo 👨 a web developer and creator of the open source <a href="https://github.com/nuxt-stisla"><b>Nuxt Stisla</b></a>. My 💚 favorite programming language are Javascript, PHP, GoLang, and Python. Working from home during quarantine 🏡
 
 ## Github Performance Overall
 
