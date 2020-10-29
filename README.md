@@ -1,30 +1,17 @@
-# Romadhan Edy Prasetyo
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
 
-Hi, I'm Romadhan Edy Prasetyo 👨 a web developer. I live in Jakarta, Indonesia.
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Hi, I'm Romadhan Edy Prasetyo 👨 a web developer and creator of the open source Nuxt Stisla. My 💚 favorite programming language are Javascript, PHP, GoLang, and Python. Working from home during quarantine 🏡
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dyprast&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=dyprast&show_icons=true&theme=tokyonight)
 
-<!--
 ## Current activity
 
-- 💻 I'm currently developing <a href="https://gitlab.com/digitoys/backend-api-digitoys">Digitoys API</a>.
+- 💻 I'm currently developing <a href="https://github.com/dyprast/nuxt-stisla">Nuxt Stisla</a>.
 - 📖 I’m currently learning golang and nuxtjs
 - 😄 I'm natively speak Indonesian and fluently speak english
 - 📫 You can reach me at romadhanedy@gmail.com.
-- 📝 See my <a href="https://www.linkedin.com/in/romadhan-prasetyo-a84225173/">linkedin</a> to get more info.
-
-**dyprast/dyprast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 See my <a href="https://www.linkedin.com/in/romadhan-prasetyo">linkedin</a> to get more info.
