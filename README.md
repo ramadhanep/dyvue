@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./right.gif?raw=true" width="300"/>
+<img align="right" alt="GIF" src="./working.gif?raw=true" width="300"/>
 
 ## Hey there <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/beaming_face_with_smiling_eyes_256_2.gif" width="25px">
 
