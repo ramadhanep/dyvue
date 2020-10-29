@@ -1,6 +1,4 @@
-<img align="right" alt="GIF" src="./right.gif?raw=true" width="250"/>
-
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="./right.gif?raw=true" width="50px">
 
 Hi, I'm Romadhan Edy Prasetyo 👨 a web developer. My 💚 favorite programming language are Javascript, PHP, GoLang, and Python. Working from home during quarantine 🏡
 
