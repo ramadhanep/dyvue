@@ -4,4 +4,4 @@ Hi, I'm Romadhan Edy Prasetyo 😀 a web developer and creator of the open sourc
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dyprast&show_icons=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=romadhanep&show_icons=true&theme=tokyonight)
